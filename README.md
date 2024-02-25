@@ -16,7 +16,7 @@ Dashboard Creation: The culmination of our Bokeh and machine learning endeavors 
 Deployment: Learning to deploy the dashboard on a lightweight server, making it accessible via a URL. This step involved practical lessons on server setup and dashboard hosting.
 
 ## Project Highlights
-# In this repository, you'll find:
+### In this repository, you'll find:
 
 Bokeh Visualizations: Examples of various interactive charts and plots created with Bokeh, showcasing different aspects of our spatial dataset.
 Predictive Model: The Python code for our machine learning model, including data preprocessing, model training, and evaluation.
